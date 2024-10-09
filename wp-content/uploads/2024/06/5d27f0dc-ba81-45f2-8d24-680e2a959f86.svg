@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 83.96 38.11">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: TwCenMT-Regular, 'Tw Cen MT';
+        font-size: 35px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(0 28.38)"><tspan x="0" y="0">JEE</tspan><tspan class="cls-1" x="44.13" y="0">V</tspan><tspan x="62.82" y="0">A</tspan></text>
+</svg>
